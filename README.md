@@ -1,2 +1,2 @@
-# ---
-Created with CodeSandbox
+# Создан сандбокс
+Создано с помощью CodeSandbox
